@@ -235,4 +235,9 @@ You are free to use, modify, and adapt it for your own GPTs or editorial workflo
 - 憲法とルールの解釈に迷った場合は、判断を保留することが正解です
 
 
+## 使い方（概要）
+1. onboarding_interview.md に回答
+2. initial_interview.md で条件確定
+3. 本文を投入
+4. 出力フォーマットに従って提案を受け取る
 ---
